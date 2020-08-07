@@ -1,0 +1,1 @@
+effect give @e[tag=s4] minecraft:glowing
