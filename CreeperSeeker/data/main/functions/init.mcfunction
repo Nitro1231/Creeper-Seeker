@@ -12,6 +12,7 @@ scoreboard players set Total Game 0
 scoreboard players set Opportunity Game 0
 scoreboard players set Used Game 0
 scoreboard players set Find Game 0
+scoreboard players set @a check 0
 
 scoreboard players set Min Timer 2
 scoreboard players set Sec Timer 15
